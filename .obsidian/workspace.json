@@ -4,38 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "78b8ec30e793e967",
+        "id": "4199ce1bdc8bb2a7",
         "type": "tabs",
         "children": [
           {
-            "id": "9c312cc35d499b57",
+            "id": "765c1ac07eeaf41e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 Inbox/This is my first note.md",
+                "file": "Periodic Notes/Yearly/2026.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "This is my first note"
+              "title": "2026"
             }
           },
           {
-            "id": "43e125ff851feeaf",
+            "id": "54c0d8e354f9507b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "0 Inbox/Land a new job as java backend or java fullstack engineer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
+              "title": "Land a new job as java backend or java fullstack engineer"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0 Inbox/This is my first note.md",
+                "file": "0 Inbox/Land a new job as java backend or java fullstack engineer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for This is my first note"
+              "title": "Backlinks for Land a new job as java backend or java fullstack engineer"
             }
           },
           {
@@ -170,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kubernetes/Introduction.md",
+                "file": "0 Inbox/Land a new job as java backend or java fullstack engineer.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Introduction"
+              "title": "Outline of Land a new job as java backend or java fullstack engineer"
             }
           },
           {
@@ -188,13 +189,23 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "59ebecbd7f9c6625",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -206,30 +217,46 @@
       "templates:Insert template": false,
       "bases:Create new base": false,
       "audio-recorder:Start/stop recording": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "templater-obsidian:Templater": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "9c312cc35d499b57",
+  "active": "54c0d8e354f9507b",
   "lastOpenFiles": [
+    "0 Inbox/Land a new job as java backend or java fullstack engineer.md",
+    "Periodic Notes/Yearly/2026.md",
+    "Land a new job as backend/fullstack engineer.md",
+    "Land a new job as backend",
+    "Periodic Notes/Yearly/This is my yearly note.md",
+    "Periodic Notes/Daily/2026-07-07.md",
+    "Templates/daily.md",
+    "Templates/yearly.md",
+    "Periodic Notes/Yearly",
+    "Templates/Zettel template.md",
+    "0 Inbox/Grand Adventures.md",
+    "0 Inbox/System.md",
+    "Templates/monthly.md",
+    "Templates/weekly.md",
+    "Templates/weekly",
+    "Templates/monthly",
+    "Templates/daily",
+    "Periodic Notes/Monthly",
+    "Periodic Notes/Weekly",
+    "0 Inbox/Hello world 2.md",
+    "Periodic Notes/Daily",
+    "Welcome.md",
+    "Untitled.md",
+    "Templates",
+    "0 Inbox/This is my first note.md",
     "0 Inbox/Introduction.md",
     "0 Inbox/Hello world.md",
-    "Welcome.md",
     "0 Inbox/Hello PARTH.md",
     "0 Inbox/this is to check if obsidian commits are pushed automatically.md",
-    "0 Inbox/This is my first note.md",
     "0 Inbox/Git test.md",
     "Periodic Notes",
-    "4 Archive",
-    "3 Resources",
-    "2 Areas",
-    "1 Project",
-    "0 Inbox",
     "Untitled.canvas",
-    "Kubernetes",
     "2026-06-29.md",
-    "create a link.md",
-    "Untitled 1.base",
-    "Untitled 2.base",
-    "Untitled.base"
+    "create a link.md"
   ]
 }
