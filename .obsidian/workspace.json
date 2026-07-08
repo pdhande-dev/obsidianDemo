@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 Inbox/Land a new job as java backend or java fullstack engineer.md",
+                "file": "0 Inbox/ZettleKasten Intro.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Land a new job as java backend or java fullstack engineer"
+              "title": "ZettleKasten Intro"
             }
           }
         ],
@@ -93,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 315.5
   },
   "right": {
     "id": "649198b8448ef7e7",
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0 Inbox/Land a new job as java backend or java fullstack engineer.md",
+                "file": "0 Inbox/ZettleKasten Intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Land a new job as java backend or java fullstack engineer"
+              "title": "Backlinks for ZettleKasten Intro"
             }
           },
           {
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0 Inbox/Land a new job as java backend or java fullstack engineer.md",
+                "file": "0 Inbox/ZettleKasten Intro.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Land a new job as java backend or java fullstack engineer"
+              "title": "Outline of ZettleKasten Intro"
             }
           },
           {
@@ -225,6 +225,8 @@
   "active": "54c0d8e354f9507b",
   "lastOpenFiles": [
     "0 Inbox/Land a new job as java backend or java fullstack engineer.md",
+    "Periodic Notes/Daily/2026-07-08.md",
+    "0 Inbox/ZettleKasten Intro.md",
     "Periodic Notes/Yearly/2026.md",
     "Land a new job as backend/fullstack engineer.md",
     "Land a new job as backend",
