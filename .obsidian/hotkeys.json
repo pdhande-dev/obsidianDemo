@@ -23,5 +23,13 @@
       ],
       "key": "D"
     }
+  ],
+  "templater-obsidian:create-Templates/Daily Quest.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "D"
+    }
   ]
 }
