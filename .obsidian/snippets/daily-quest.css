@@ -1,0 +1,155 @@
+/* ==================================
+   DAILY QUEST  –  Obsidian Snippet
+================================== */
+
+.daily-quest .metadata-container { display: none; }
+
+
+/* ── TITLE ── */
+.daily-quest h1 {
+    text-align: center;
+    font-size: 2.5rem;
+    font-weight: 700;
+    margin: 0 0 0.5rem;
+}
+.markdown-source-view.mod-cm6 .daily-quest .cm-line.HyperMD-header-1 {
+    text-align: center;
+}
+.markdown-source-view.mod-cm6 .daily-quest .cm-formatting.cm-formatting-header {
+    opacity: 0;
+    letter-spacing: -0.5em;
+}
+
+
+/* ── DATE ── */
+.daily-quest .daily-date {
+    display: block;
+    text-align: center;
+    font-size: 1rem;
+    color: var(--text-muted);
+    margin-bottom: 1.5rem;
+}
+
+
+/* ── SECTION HEADINGS ── */
+.daily-quest h2 {
+    text-align: center;
+    font-size: 0.8rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    color: var(--text-muted);
+    margin-top: 2rem;
+    margin-bottom: 0.5rem;
+}
+.markdown-source-view.mod-cm6 .daily-quest .cm-line.HyperMD-header-2 {
+    text-align: center;
+}
+
+
+/* ── SHARED CARD SIZE ── */
+.daily-quest .callout,
+.daily-quest ul.contains-task-list {
+    width: 650px;
+    max-width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 1.25rem;
+    border-radius: 14px;
+    box-sizing: border-box;
+}
+
+
+/* ── CALLOUT BASE ── */
+.daily-quest .callout {
+    padding: 0;
+    overflow: hidden;
+}
+.daily-quest .callout-title {
+    justify-content: center;
+    padding: 2rem 2rem 0.4rem;
+    font-size: 0.72rem;
+    letter-spacing: 0.07em;
+    text-transform: uppercase;
+}
+.daily-quest .callout-content {
+    padding: 10rem 1rem;
+}
+.daily-quest .callout-content p {
+    margin: 0rem 0;
+    line-height: 1;
+}
+
+/* ==================================
+   HIDE PROPERTIES PANEL
+================================== */
+
+.daily-quest .metadata-container {
+    display: none;
+}
+
+/* ==================================
+   HIDE INLINE TITLE
+================================== */
+
+.daily-quest .inline-title {
+    display: none;
+}
+
+
+/* ── QUOTE ── */
+/* warm neutral tone, no jarring color */
+.daily-quest .callout[data-callout="quote"] {
+    --callout-color: 160, 145, 110;
+}
+/* Quote of the Day — author line */
+.daily-quest .callout[data-callout="quote"] cite {
+    font-style: normal;
+    font-size: 0.85rem;
+    color: var(--text-muted);
+}
+
+.daily-quest .callout[data-callout="quote"] .callout-content {
+    display: flex;
+    flex-direction: column;
+    gap: 0.4rem;
+}
+
+/* ── JOURNAL ── */
+/* Override default blue with neutral grey */
+.daily-quest .callout[data-callout="journal"] {
+    --callout-color: 130, 130, 130;
+}
+.daily-quest .callout[data-callout="journal"] .callout-title {
+    /* keep the title bar but make it subtle */
+    font-size: 0.72rem;
+    letter-spacing: 0.07em;
+}
+.daily-quest .callout[data-callout="journal"] .callout-content {
+    min-height: 160px;
+    padding: 1rem 1.2rem;
+}
+.daily-quest .callout[data-callout="journal"] .callout-content p {
+    line-height: 1.85;
+}
+
+
+/* ── TASK LIST ── */
+/* ✦ FIX: 2rem left padding gives checkboxes room to render */
+.daily-quest ul.contains-task-list {
+    list-style: none;
+    padding: 0.75rem 1.2rem 0.75rem 2rem;
+    background: var(--background-secondary);
+    border: 1px solid var(--background-modifier-border);
+}
+.daily-quest .task-list-item {
+    margin: 0.5rem 0;
+}
+
+
+/* ── MOBILE ── */
+@media (max-width: 700px) {
+    .daily-quest .callout,
+    .daily-quest ul.contains-task-list { width: 95%; }
+    .daily-quest h1 { font-size: 2rem; }
+}

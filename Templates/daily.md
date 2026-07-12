@@ -4,9 +4,9 @@ cssclasses: daily-quest
 
 # Daily Quest
 
-<span class="daily-date">Sunday, July 12, 2026</span>
+<span class="daily-date">{{date:dddd, MMMM D, YYYY}}</span>
 
-{{`quote`}}
+{{quote}}
 
 ## ✅ Tasks
 

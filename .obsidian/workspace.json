@@ -4,17 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "3c7019f16ffabb36",
+        "id": "8717281479330007",
         "type": "tabs",
         "children": [
           {
-            "id": "fe84fdee179b077b",
+            "id": "56a61e6d7f8fe2b4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Periodic Notes/Daily/2026-07-12.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2026-07-12"
             }
           }
         ]
@@ -74,7 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 315.5
+    "width": 200
   },
   "right": {
     "id": "649198b8448ef7e7",
@@ -132,20 +137,6 @@
             }
           },
           {
-            "id": "8ca5ca04dd57487a",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-archive",
-              "title": "All properties"
-            }
-          },
-          {
             "id": "53131e8f9a11cc09",
             "type": "leaf",
             "state": {
@@ -179,13 +170,28 @@
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
+          },
+          {
+            "id": "f68ae1f79961992b",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -202,9 +208,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "1748f35c68fc0632",
+  "active": "56a61e6d7f8fe2b4",
   "lastOpenFiles": [
+    "Templates/daily.md",
     "Periodic Notes/Daily/2026-07-12.md",
+    "Templates/monthly.md",
+    "Templates/New Task.md",
+    "0 Inbox/quote.md",
+    "Periodic Notes/Daily/2026-07-13.md",
+    "Periodic Notes/Daily/2026-06-17.md",
+    "Periodic Notes/Daily/Sunday, July 12, 2026.md",
+    "Periodic Notes/Daily/Monday, July 13, 2026.md",
     "Templates/Daily Quest.md",
     "Periodic Notes/Daily/2026-07-08.md",
     "Periodic Notes/Daily/2026-07-07.md",
@@ -220,25 +234,17 @@
     "Periodic Notes/Yearly/2026.md",
     "Templates/dailyQuest.md",
     "0 Inbox/Untitled 1.md",
-    "Templates/monthly.md",
     "Land a new job as backend/fullstack engineer.md",
     "Land a new job as backend",
     "Periodic Notes/Yearly/This is my yearly note.md",
-    "Templates/yearly.md",
     "Periodic Notes/Yearly",
-    "Templates/Zettel template.md",
-    "Templates/weekly.md",
     "Templates/weekly",
     "Templates/monthly",
     "Templates/daily",
     "Periodic Notes/Monthly",
     "Periodic Notes/Weekly",
-    "0 Inbox/Hello world 2.md",
     "Periodic Notes/Daily",
-    "Untitled.md",
     "Templates",
-    "0 Inbox/This is my first note.md",
-    "0 Inbox/Hello world.md",
     "Periodic Notes",
     "Untitled.canvas"
   ]

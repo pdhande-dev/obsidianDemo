@@ -3,5 +3,10 @@
   "quick-explorer",
   "templater-obsidian",
   "periodic-notes",
-  "calendar"
+  "calendar",
+  "obsidian-style-settings",
+  "quote-of-the-day",
+  "buttons",
+  "obsidian-meta-bind-plugin",
+  "obsidian-tasks-plugin"
 ]

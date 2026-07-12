@@ -5,7 +5,8 @@
   "daily": {
     "folder": "Periodic Notes/Daily",
     "template": "Templates/daily.md",
-    "enabled": true
+    "enabled": true,
+    "format": ""
   },
   "weekly": {
     "format": "",

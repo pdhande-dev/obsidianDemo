@@ -1,5 +1,7 @@
 {
   "newFileLocation": "folder",
   "newFileFolderPath": "0 Inbox",
-  "promptDelete": false
+  "promptDelete": false,
+  "showInlineTitle": true,
+  "propertiesInDocument": "visible"
 }

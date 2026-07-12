@@ -1,0 +1,10 @@
+{
+  "quoteFormat": ">[!quote] Quote of the Day\n\t> {content}\n> &mdash; <cite>{author}</cite>✍️",
+  "quoteTagFormat": "> ---\n> {tags}\n",
+  "quoteTemplatePlaceholder": "{{quote}}",
+  "filteredQuoteTemplatePlaceholder": "{{fqotd}}",
+  "showTags": false,
+  "showTagHash": false,
+  "placeholderInterval": 5,
+  "filter": []
+}
