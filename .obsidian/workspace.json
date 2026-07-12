@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "5de3c75c6edc618d",
+        "id": "3c7019f16ffabb36",
         "type": "tabs",
         "children": [
           {
-            "id": "840fe9550d897ec3",
+            "id": "fe84fdee179b077b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Periodic Notes/Daily/2026-07-12.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2026-07-12"
+              "title": "New tab"
             }
           }
         ]
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Periodic Notes/Daily/2026-07-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2026-07-12"
+              "title": "Backlinks"
             }
           },
           {
@@ -207,9 +202,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "840fe9550d897ec3",
+  "active": "1748f35c68fc0632",
   "lastOpenFiles": [
+    "Periodic Notes/Daily/2026-07-12.md",
     "Templates/Daily Quest.md",
+    "Periodic Notes/Daily/2026-07-08.md",
+    "Periodic Notes/Daily/2026-07-07.md",
     "Welcome.md",
     "0 Inbox/ZettleKasten Intro.md",
     "0 Inbox/Git test.md",
@@ -218,13 +216,10 @@
     "0 Inbox/Introduction.md",
     "0 Inbox/Land a new job as java backend or java fullstack engineer.md",
     "0 Inbox/System.md",
-    "Periodic Notes/Daily/2026-07-12.md",
     "0 Inbox/Untitled.md",
     "Periodic Notes/Yearly/2026.md",
     "Templates/dailyQuest.md",
-    "Periodic Notes/Daily/2026-07-08.md",
     "0 Inbox/Untitled 1.md",
-    "Periodic Notes/Daily/2026-07-07.md",
     "Templates/monthly.md",
     "Land a new job as backend/fullstack engineer.md",
     "Land a new job as backend",

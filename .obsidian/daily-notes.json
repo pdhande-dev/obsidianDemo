@@ -1,5 +1,5 @@
 {
   "folder": "Periodic Notes/Daily",
   "template": "Templates/Daily Quest",
-  "format": ""
+  "format": "dddd, MMMM D, YYYY"
 }
