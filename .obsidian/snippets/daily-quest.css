@@ -1,0 +1,21 @@
+.inline-title, .HyperMD-header-1, h1 {
+	text-align: center;
+}
+
+.daily-quest .daily-date {
+    display: block;
+    text-align: center;
+    font-size: 1.15rem;
+    color: var(--text-muted);
+    margin-bottom: 2rem;
+}
+/* Hide the inline file title */
+.daily-quest .inline-title {
+    display: none;
+}
+
+/* Hide Properties in Reading & Live Preview */
+.daily-quest .metadata-container,
+.daily-quest .metadata-properties {
+    display: none !important;
+}

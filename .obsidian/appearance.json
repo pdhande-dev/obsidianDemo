@@ -1,9 +1,10 @@
 {
   "accentColor": "",
-  "cssTheme": "",
+  "cssTheme": "Shiba Inu",
   "theme": "obsidian",
   "enabledCssSnippets": [
-    "daily-quest",
-    "centerHeader"
-  ]
+    "daily-quest"
+  ],
+  "baseFontSizeAction": true,
+  "nativeMenus": true
 }

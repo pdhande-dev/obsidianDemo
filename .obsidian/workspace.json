@@ -13,13 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/daily.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "Periodic Notes/Daily/2026-07-12.md",
+                "mode": "preview",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "daily"
+              "title": "2026-07-12"
             }
           }
         ]
@@ -73,6 +72,16 @@
               "state": {},
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "223d53c67ed328a5",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent files"
             }
           }
         ]
@@ -190,8 +199,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -210,12 +218,14 @@
   },
   "active": "56a61e6d7f8fe2b4",
   "lastOpenFiles": [
-    "Periodic Notes/Daily/2026-07-12.md",
     "Templates/daily.md",
+    "Periodic Notes/Daily/2026-07-12.md",
+    "Periodic Notes/Daily/2026-07-13.md",
+    "Periodic Notes/Daily/2026-06-23.md",
     "Templates/monthly.md",
+    "0 Inbox/2026-07-11.md",
     "Templates/New Task.md",
     "0 Inbox/quote.md",
-    "Periodic Notes/Daily/2026-07-13.md",
     "Periodic Notes/Daily/2026-06-17.md",
     "Periodic Notes/Daily/Sunday, July 12, 2026.md",
     "Periodic Notes/Daily/Monday, July 13, 2026.md",
@@ -234,9 +244,7 @@
     "Periodic Notes/Yearly/2026.md",
     "Templates/dailyQuest.md",
     "0 Inbox/Untitled 1.md",
-    "Land a new job as backend/fullstack engineer.md",
     "Land a new job as backend",
-    "Periodic Notes/Yearly/This is my yearly note.md",
     "Periodic Notes/Yearly",
     "Templates/weekly",
     "Templates/monthly",

@@ -1,5 +1,12 @@
+---
+cssclasses:
+  - daily-quest
+---
+
 # ⚔️ Daily Quest ⚔️
-## ❝ Quote of the day ❞
+<span class="daily-date">
+<% tp.date.now("dddd, MMMM D, YYYY") %>
+</span>
 
 >[!quote] Quote of the Day
 	> The only Zen you find on the tops of mountains is the Zen you bring up there.
