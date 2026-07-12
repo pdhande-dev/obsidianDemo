@@ -1,19 +1,17 @@
----
-cssclasses: daily-quest
----
+# ⚔️ Daily Quest ⚔️
+## ❝ Quote of the day ❞
 
-# Daily Quest
+>[!quote] Quote of the Day
+	> The only Zen you find on the tops of mountains is the Zen you bring up there.
+> &mdash; <cite>Robert M. Pirsig</cite>✍️
 
-<span class="daily-date">{{date:dddd, MMMM D, YYYY}}</span>
+## ☑ Daily Tasks ☑
 
-{{quote}}
+- [ ] ⏫ Study 3 hours
+- [ ] 🔽 Research about content creation using AI 
+- [ ] 🔼 Learn about personal finance
 
-## ✅ Tasks
+## 🪶Journal 🪶
+#### How did today go?
 
-- [ ] 
-- [ ] 
-- [ ] 
 
-## 📔 Journal
-
-dsdsfsgfgsgdagss

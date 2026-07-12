@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Periodic Notes/Daily/2026-07-12.md",
+                "file": "Templates/daily.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2026-07-12"
+              "title": "daily"
             }
           }
         ]
@@ -210,8 +210,8 @@
   },
   "active": "56a61e6d7f8fe2b4",
   "lastOpenFiles": [
-    "Templates/daily.md",
     "Periodic Notes/Daily/2026-07-12.md",
+    "Templates/daily.md",
     "Templates/monthly.md",
     "Templates/New Task.md",
     "0 Inbox/quote.md",
