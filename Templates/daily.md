@@ -19,6 +19,7 @@ cssclasses:
 - [ ] 🔼 Learn about personal finance
 - [ ] ⏫ read 10 pages
 - [ ] 🔺 No mindless doom scrolling
+- [ ] 🔺 sleep early
 
 ## 🪶Journal 🪶
 #### How did today go?

@@ -1,0 +1,22 @@
+.inline-title, .HyperMD-header-1, h1 {
+	text-align: center;
+}
+
+.grand-adventure .yearly-date {
+    display: block;
+    width: 100%;
+    text-align: center;
+    font-size: 1.15rem;
+    color: var(--text-muted);
+    margin: 0 auto 2rem;
+}
+/* Hide the inline file title */
+.grand-adventure .inline-title {
+    display: none;
+}
+
+/* Hide Properties in Reading & Live Preview
+.grand-adventure .metadata-container,
+.grand-adventure .metadata-properties {
+    display: none !important;
+}  */

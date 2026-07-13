@@ -1,20 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "weekly",
-      "path": "Templates/weekly.md"
+      "basename": "2026-07-13",
+      "path": "Periodic Notes/Daily/2026-07-13.md"
+    },
+    {
+      "basename": "2026-W29",
+      "path": "Periodic Notes/Weekly/2026-W29.md"
+    },
+    {
+      "basename": "07-2026",
+      "path": "Periodic Notes/Monthly/07-2026.md"
+    },
+    {
+      "basename": "2026",
+      "path": "Periodic Notes/Yearly/2026.md"
+    },
+    {
+      "basename": "monthly",
+      "path": "Templates/monthly.md"
+    },
+    {
+      "basename": "yearly",
+      "path": "Templates/yearly.md"
     },
     {
       "basename": "daily",
       "path": "Templates/daily.md"
     },
     {
-      "basename": "2026-07-13",
-      "path": "Periodic Notes/Daily/2026-07-13.md"
-    },
-    {
-      "basename": "monthly",
-      "path": "Templates/monthly.md"
+      "basename": "weekly",
+      "path": "Templates/weekly.md"
     }
   ],
   "omittedPaths": [],

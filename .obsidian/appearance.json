@@ -4,7 +4,9 @@
   "theme": "obsidian",
   "enabledCssSnippets": [
     "daily-quest",
-    "weekly-quest"
+    "weekly-quest",
+    "monthly-campaign",
+    "grand-adventure"
   ],
   "baseFontSizeAction": true,
   "nativeMenus": true

@@ -1,0 +1,22 @@
+.inline-title, .HyperMD-header-1, h1 {
+	text-align: center;
+}
+
+.monthly-campaign .monthly-date {
+    display: block;
+    width: 100%;
+    text-align: center;
+    font-size: 1.15rem;
+    color: var(--text-muted);
+    margin: 0 auto 2rem;
+}
+/* Hide the inline file title */
+.monthly-campaign .inline-title {
+    display: none;
+}
+
+/* Hide Properties in Reading & Live Preview
+.monthly-campaign .metadata-container,
+.monthly-campaign .metadata-properties {
+    display: none !important;
+}  */
