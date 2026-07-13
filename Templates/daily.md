@@ -17,6 +17,7 @@ cssclasses:
 - [ ] ⏫ Study 3 hours
 - [ ] 🔽 Research about content creation using AI 
 - [ ] 🔼 Learn about personal finance
+- [ ] ⏫ read 10 pages 
 
 ## 🪶Journal 🪶
 #### How did today go?

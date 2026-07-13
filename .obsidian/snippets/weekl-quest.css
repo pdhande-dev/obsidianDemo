@@ -2,7 +2,7 @@
 	text-align: center;
 }
 
-.daily-quest .daily-date {
+.weekly-quest .weekly-date {
     display: block;
     text-align: center;
     font-size: 1.15rem;
@@ -10,12 +10,12 @@
     margin-bottom: 2rem;
 }
 /* Hide the inline file title */
-.daily-quest .inline-title {
+.weekly-quest .inline-title {
     display: none;
 }
 
 /* Hide Properties in Reading & Live Preview
-.daily-quest .metadata-container,
-.daily-quest .metadata-properties {
+.weekly-quest .metadata-container,
+.weekly-quest .metadata-properties {
     display: none !important;
 }  */
