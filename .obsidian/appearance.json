@@ -3,7 +3,8 @@
   "cssTheme": "Shiba Inu",
   "theme": "obsidian",
   "enabledCssSnippets": [
-    "daily-quest"
+    "daily-quest",
+    "weekly-quest"
   ],
   "baseFontSizeAction": true,
   "nativeMenus": true

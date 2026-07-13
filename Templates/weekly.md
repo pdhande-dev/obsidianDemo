@@ -4,9 +4,13 @@ cssclasses:
 ---
 
 # ⚔️ Weekly Quest ⚔️
-<span class="weekly-date">
-<% tp.date.now("dddd, MMMM D, YYYY") %>
-</span>
+
+<span class="weekly-date">Week <% tp.date.now("W") %> • <% tp.date.now("MMM D") %> – <% tp.date.now("MMM D, YYYY", 6) %></span>
+
+## 🙌 Gratitude 🙌
+-
+-
+-
 
 ## ☑ Weekly Tasks ☑
 
@@ -14,8 +18,10 @@ cssclasses:
 - [ ] 🔽 Research about content creation using AI 
 - [ ] 🔼 Learn about personal finance
 - [ ] ⏫ Read 70 pages
+- [ ] 🔺 No mindless doom scrolling
 
-## 🪶Weekly Review 🪶
+## 🧐 Weekly Review 🧐
+Review - 
 
-
-
+## 🪶Journal 🪶
+How did this week go?
