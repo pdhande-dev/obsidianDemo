@@ -6,7 +6,8 @@
     "daily-quest",
     "weekly-quest",
     "monthly-campaign",
-    "grand-adventure"
+    "grand-adventure",
+    "centerHeader"
   ],
   "baseFontSizeAction": true,
   "nativeMenus": true

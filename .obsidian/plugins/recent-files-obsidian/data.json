@@ -1,12 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "Progress Tracker",
-      "path": "Progress Tracker.md"
+      "basename": "01 Goal",
+      "path": "1 Project/Learn Kubernetes/01 Goal.md"
     },
     {
-      "basename": "2026-W29",
-      "path": "Periodic Notes/Weekly/2026-W29.md"
+      "basename": "02 Roadmap",
+      "path": "1 Project/Learn Kubernetes/02 Roadmap.md"
+    },
+    {
+      "basename": "03 Labs",
+      "path": "1 Project/Learn Kubernetes/03 Labs.md"
+    },
+    {
+      "basename": "04 Errors and Fixes",
+      "path": "1 Project/Learn Kubernetes/04 Errors and Fixes.md"
+    },
+    {
+      "basename": "05 Questions",
+      "path": "1 Project/Learn Kubernetes/05 Questions.md"
+    },
+    {
+      "basename": "What is kubernetes",
+      "path": "2 Areas/Kubernetes/What is kubernetes.md"
+    },
+    {
+      "basename": "2026-07-14",
+      "path": "Periodic Notes/Daily/2026-07-14.md"
     },
     {
       "basename": "2026-07-13",
@@ -15,6 +35,18 @@
     {
       "basename": "07-2026",
       "path": "Periodic Notes/Monthly/07-2026.md"
+    },
+    {
+      "basename": "Zettel template",
+      "path": "Templates/Zettel template.md"
+    },
+    {
+      "basename": "Progress Tracker",
+      "path": "Progress Tracker.md"
+    },
+    {
+      "basename": "2026-W29",
+      "path": "Periodic Notes/Weekly/2026-W29.md"
     },
     {
       "basename": "2026",

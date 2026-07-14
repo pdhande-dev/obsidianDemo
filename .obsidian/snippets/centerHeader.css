@@ -1,3 +1,10 @@
-.inline-title, .HyperMD-header-1, h1 {
-	text-align: center;
+/* Reading Mode */
+.markdown-reading-view {
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+/* Live Preview / Edit Mode */
+.markdown-source-view.mod-cm6 .cm-contentContainer {
+    text-align: justify;
 }
